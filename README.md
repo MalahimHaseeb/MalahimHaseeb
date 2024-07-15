@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **react , next ,java ,python ,c++**
+- 💬 Ask me about **react , next ,java ,python ,c++ ,node js, express , mongoDb , fast_api ,chrome_extensions**
 
 - 📫 How to reach me **https://www.instagram.com/malahimhaseeb/**
 
