@@ -56,6 +56,7 @@
 npx create-next-template-malahimdev my-app
 ```
 
+---
 
 ## 🌐 Featured Projects  
 
@@ -63,12 +64,13 @@ npx create-next-template-malahimdev my-app
 - 🔹 [journal.malahim.dev](https://journal.malahim.dev) → An **AI-powered mental health support app**  
 - 🔹 [malahim.dev](https://malahim.dev) → My **personal portfolio** showcasing projects & skills  
 
- 
+---
 
 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malahimhaseeb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
+---
 
 🌐 Connect With Me
 
