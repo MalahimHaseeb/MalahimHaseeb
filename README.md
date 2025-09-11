@@ -56,18 +56,21 @@
 npx create-next-template-malahimdev my-app
 ```
 
-🌐 Featured Projects
 
-🔹 ui.malahim.dev
- → Helps developers explore and extend the Shadcn registry library
+## 🌐 Featured Projects  
 
-🔹 journal.malahim.dev
- → An AI-powered mental health support app
+- 🔹 [ui.malahim.dev](https://ui.malahim.dev) → Helps developers explore and extend the **Shadcn registry library**  
+- 🔹 [journal.malahim.dev](https://journal.malahim.dev) → An **AI-powered mental health support app**  
+- 🔹 [malahim.dev](https://malahim.dev) → My **personal portfolio** showcasing projects & skills  
 
-🔹 malahim.dev
- → My personal portfolio showcasing projects & skills
+ 
 
 📊 GitHub Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malahimhaseeb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
+
 🌐 Connect With Me
+
+
 <p align="left"> <a href="https://linkedin.com/in/malahim-haseeb-708aaa284" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://fb.com/malahimhaseeb" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://instagram.com/malahimhaseeb" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
