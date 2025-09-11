@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Malahim Haseeb</h1>
-<h3 align="center">Full-Stack Developer | MERN | Next.js | Backend APIs | DevOps Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | TypeScript | MERN | Next.js | Backend APIs | DevOps Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 Skilled in **Frontend, Backend, Cloud & DevOps**
-- 📦 Published an **NPX package** to automate Next.js project setup with **Theme Changer + Shadcn UI**
-- 🌱 Currently exploring **advanced DevOps & scalable backend patterns**
+- 💻 Skilled in **Frontend, Backend, Cloud & DevOps**, with a strong focus on **TypeScript**  
+- 🏢 Worked on **enterprise-level projects** in collaborative teams, building systems like **research support tools, LMS platforms, and real-time chat apps**  
+- 📦 Published an **NPX package** to automate Next.js project setup with **Theme Changer + Shadcn UI**  
+- 🌱 Currently exploring **scalable backend architectures & advanced DevOps pipelines**  
 - ⚡ Fun fact: I’m an **anime lover** 🎌  
 
 ---
@@ -14,15 +15,15 @@
 ## 🛠️ Skills & Technologies  
 
 ### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=radix-ui&logoColor=white)
@@ -55,8 +56,18 @@
 npx create-next-template-malahimdev my-app
 ```
 
+🌐 Featured Projects
+
+🔹 ui.malahim.dev
+ → Helps developers explore and extend the Shadcn registry library
+
+🔹 journal.malahim.dev
+ → An AI-powered mental health support app
+
+🔹 malahim.dev
+ → My personal portfolio showcasing projects & skills
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malahimhaseeb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
 🌐 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/malahim-haseeb-708aaa284" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://fb.com/malahimhaseeb" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://instagram.com/malahimhaseeb" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p> 
+<p align="left"> <a href="https://linkedin.com/in/malahim-haseeb-708aaa284" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://fb.com/malahimhaseeb" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://instagram.com/malahimhaseeb" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
