@@ -1,60 +1,62 @@
-<h1 align="center">Hi 👋, I’m Malahim Haseeb</h1>
-<h3 align="center">Full-Stack Web Developer From Lahore, Pakistan</h3>
-
-- 🌱 I’m currently improving my skills in **C++** and deepening my experience with **FastAPI** & **Next.js**  
-- 💬 Ask me about **React, Next.js, Java, Python, FastAPI, C++**  
-- 📫 How to reach me: [Instagram](https://www.instagram.com/malahimhaseeb/)  
-- ⚡ Fun fact: I’m an anime lover  
+<h1 align="center">Hi 👋, I'm Malahim Haseeb</h1>
+<h3 align="center">Full-Stack Developer | MERN | Next.js | Backend APIs | DevOps Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
-
-Full-Stack Developer with over **3 years of experience**. Skilled in MERN stack, Next.js, and building API backends using Python / FastAPI. I also have experience in web scraping, basic DevOps practices, and striving for clean, scalable, maintainable code. :contentReference[oaicite:0]{index=0}
-
----
-
-### 🔧 Languages & Tools
-
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-</p>
+## 🚀 About Me
+- 💻 Skilled in **Frontend, Backend, Cloud & DevOps**
+- 📦 Published an **NPX package** to automate Next.js project setup with **Theme Changer + Shadcn UI**
+- 🌱 Currently exploring **advanced DevOps & scalable backend patterns**
+- ⚡ Fun fact: I’m an **anime lover** 🎌  
 
 ---
 
-### 🔍 Key Expertise
+## 🛠️ Skills & Technologies  
 
-| Area | Details |
-|---|---|
-| **Frontend** | React, Next.js, Tailwind CSS, responsive design |
-| **Backend / APIs** | Node.js / Express.js, Python / FastAPI |
-| **Database** | MongoDB, MySQL |
-| **Other** | Web scraping, DevOps basics, clean code, scalability, deployment |
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=radix-ui&logoColor=white)
+
+### **Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 📦 My NPX Package  
+🚀 Automates setup for a **Next.js project** with theme switching + **Shadcn UI integration**  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malahimhaseeb&show_icons=true&locale=en&layout=compact" alt="malahimhaseeb" /></p>
+```bash
+npx malahim-next-starter
+```
 
----
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malahimhaseeb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://fb.com/malahimhaseeb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malahimhaseeb" height="30" width="40" /></a>
-  <a href="https://instagram.com/malahimhaseeb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malahimhaseeb" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/malahim-haseeb-708aaa284" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="malahimhaseeb" height="30" width="40" /></a>
-</p>
+🌐 Connect With Me
+<p align="left"> <a href="https://linkedin.com/in/malahim-haseeb-708aaa284" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://fb.com/malahimhaseeb" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://instagram.com/malahimhaseeb" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p> ```
