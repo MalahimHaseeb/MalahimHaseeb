@@ -52,7 +52,7 @@
 ---
 
 ## npm i  malahimdev@global-state
-A global state inspired by zustand in which no provider configuration required and its fully optimised.
+A global state manager inspired by zustand in which no provider configuration required and its fully optimised.
 
 ## 📦 My NPX Package  
 🚀 Automates setup for a **Next.js project** with theme switching + **Shadcn UI integration**  
