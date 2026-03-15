@@ -64,7 +64,7 @@ npx create-next-template-malahimdev my-app
 ---
 
 ## 🌐 Featured Projects  
-
+- 🔹 [QuickPU](https://quickpu.vercel.app) → Designed and built the complete frontend and backend integration for a real-time Punjab University result portal. Engineered the UI architecture, analytics dashboards, PDF/CSV export system, and wired everything up to the scraping API.
 - 🔹 [doceno.malahim.dev](https://doceno.malahim.dev) → Built an AI-powered document platform that allows users to chat with their files or instantly generate professional, ready-to-use documents from a single prompt. Solved major challenges around information retrieval, slow document processing, and unreliable AI responses by implementing fast, accurate, and secure AI workflows for seamless document generation and querying.
 - 🔹 [bot-spark](https://bot-spark.tech) → Built “Bot-Spark,” a no-code AI chatbot platform enabling users to log in, enter their details, and instantly generate a shareable AI chatbot link. Developed a fully responsive Next.js application with secure authentication, customizable themes, SEO-optimized metadata, and real-time session monitoring for a seamless user experience.
 - 🔹 [ui.malahim.dev](https://ui.malahim.dev) → Helps developers explore and extend the **Shadcn registry library**
