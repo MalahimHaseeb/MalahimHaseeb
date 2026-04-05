@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malahim Haseeb</h1>
-<h3 align="center">Full-Stack Developer | TypeScript | MERN | Next.js | Backend APIs | DevOps Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | TypeScript | MERN | Next.js | C# | Backend APIs | DevOps Enthusiast</h3>
 
 ---
 
