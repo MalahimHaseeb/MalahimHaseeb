@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Malahim%20Haseeb&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20Full-Stack%20%7C%20RAG%20%2526%20Agentic%20Systems&descAlignY=62&descSize=15&descColor=a78bfa)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Malahim%20Haseeb&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20Full-Stack%20%7C%20RAG%20and%20Agentic%20Systems&descAlignY=62&descSize=15&descColor=a78bfa)
 
 <br/>
 
