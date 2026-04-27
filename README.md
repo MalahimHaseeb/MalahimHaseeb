@@ -127,7 +127,7 @@ const malahim = {
 
 ## 📦 Open Source
 
-### `npm i malahimdev@global-state`
+### `npm i @malahimdev/global-state`
 > Zustand-inspired global state manager — **zero provider config**, fully optimised, tree-shakeable.
 
 ### `npx create-next-template-malahimdev my-app`
