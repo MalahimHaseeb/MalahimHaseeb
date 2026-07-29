@@ -121,7 +121,7 @@ const malahim = {
 <td width="50%" valign="top">
 
 **[BotSpark](https://bot-spark.tech)**
-Multi-tenant SaaS for Discord automation with LLM-powered command generation — handles **100K+ requests/day** in production.
+BotSpark is a multi-tenant AI chatbot SaaS. A business connects its own data and brand, deploys a custom AI agent in minutes, and it answers customer questions 24/7 instead of a team manually replying. Built with Next.js, NestJS, and MongoDB, with multi-provider LLM fallback so a single provider outage doesn't take a tenant's bot offline.
 `NestJS` `Microservices` `OpenAI`
 
 </td>
