@@ -137,8 +137,8 @@ University result portal with instant lookup and printable PDF report cards. Wen
 <td width="50%" valign="top">
 
 **[ZarQix](https://zarqix.com)**
-E-commerce storefront and co-founded startup (with Kanwar Adnan). Full checkout flow, custom product fields, token-based review edit/delete, and a product comparison page.
-`Next.js` `E-commerce` `Startup`
+E-commerce storefront with a full checkout flow, custom product fields, token-based review edit/delete, and a product comparison page.
+`Next.js` `E-commerce`
 
 </td>
 <td width="50%" valign="top">
