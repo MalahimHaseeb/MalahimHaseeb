@@ -120,7 +120,7 @@ const malahim = {
 <tr>
 <td width="50%" valign="top">
 
-**BotSpark**
+**[BotSpark](https://bot-spark.tech)**
 Multi-tenant SaaS for Discord automation with LLM-powered command generation — handles **100K+ requests/day** in production.
 `NestJS` `Microservices` `OpenAI`
 
@@ -136,11 +136,20 @@ University result portal with instant lookup and printable PDF report cards. Wen
 <tr>
 <td width="50%" valign="top">
 
+**[ZarQix](https://zarqix.com)**
+E-commerce storefront and co-founded startup (with Kanwar Adnan). Full checkout flow, custom product fields, token-based review edit/delete, and a product comparison page.
+`Next.js` `E-commerce` `Startup`
+
+</td>
+<td width="50%" valign="top">
+
 **[CodeDNA](https://codereview.malahim.dev)**
 AI code reviewer with institutional memory — remembers past review context via Pinecone and grades its own output with a 4-axis LLM-as-Judge eval pipeline.
 `Pinecone` `LLM-as-Judge` `FastAPI`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[orderflow.bot](https://orderflow.bot)**
@@ -148,8 +157,6 @@ WhatsApp restaurant ordering bot — takes voice notes, images of handwritten or
 `Baileys` `LangGraph` `Groq` `faster-whisper` `pytesseract` `MongoDB`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **Doceno**
@@ -157,11 +164,52 @@ AI document platform — chat with your files or generate professional documents
 `Next.js` `RAG` `FastAPI`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[CatalystWatch](https://github.com/malahimhaseeb)**
+Autonomous crypto market intelligence agent that scrapes and reasons over live market data, then pushes alerts straight to Discord.
+`LangGraph` `Gemini 2.5 Flash` `Playwright` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**[ContentAgent](https://contentagent.malahim.dev)**
+A 5-node autonomous LangGraph pipeline that plans, drafts, critiques, and publishes content end-to-end. First major agentic system built while learning LangGraph.
+`LangGraph` `Multi-node Pipeline`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Optimix**
+AI-powered SEO intelligence tool combining semantic search with static analysis to surface actionable developer insights.
+`Next.js` `Python` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+**Dental Clinic Template**
+Reusable, resale-ready multi-client website template for dental practices — Three.js hero animation, per-client theming via CSS custom properties. First live client: Dr. Muhammad Mohid's clinic.
+`Next.js` `Three.js` `Multi-tenant Theming`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[`@malahimdev/global-state`](https://malahimdev-global-states.vercel.app)**
 Lightweight React state manager built on `useSyncExternalStore` — zero provider config, fully optimized, tree-shakeable. Published to npm, now at **v1.3.0**.
 `npm i @malahimdev/global-state`
+
+</td>
+<td width="50%" valign="top">
+
+**`create-next-template-malahimdev`**
+CLI scaffolding tool that bootstraps a Next.js project with a theme changer and Shadcn UI pre-wired.
+`npx create-next-template-malahimdev my-app`
 
 </td>
 </tr>
