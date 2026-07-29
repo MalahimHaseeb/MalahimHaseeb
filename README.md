@@ -192,7 +192,7 @@ AI-powered SEO intelligence tool combining semantic search with static analysis 
 <td width="50%" valign="top">
 
 **Dental Clinic Template**
-Reusable, resale-ready multi-client website template for dental practices — Three.js hero animation, per-client theming via CSS custom properties. First live client: Dr. Muhammad Mohid's clinic.
+Reusable, resale-ready multi-client website template for dental practices — Three.js hero animation, per-client theming via CSS custom properties.
 `Next.js` `Three.js` `Multi-tenant Theming`
 
 </td>
