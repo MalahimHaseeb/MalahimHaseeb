@@ -26,7 +26,7 @@ const malahim = {
   education   : "BSCS @ University of Punjab (2023–2027)",
   focus       : ["RAG Systems", "Agentic Workflows", "Production Web Apps"],
   stack       : ["Next.js", "NestJS", "FastAPI", "Django", "Node.js"],
-  ai          : ["LangChain", "OpenAI API", "Vector DBs", "LangGraph"],
+  ai          : ["LangGraph", "LangChain", "OpenAI API", "Gemini", "Vector DBs"],
   cloud       : ["AWS (EC2 · S3 · Lambda)", "Docker", "Kubernetes", "VPS"],
   currentlyLearning : "LangGraph + Advanced Agentic Pipelines",
   funFact     : "Anime lover 🎌 — I debug like Levi fights 🗡️",
@@ -48,6 +48,7 @@ const malahim = {
 | Discord bot users automated | **1,000+ members** |
 | Real-time concurrent users | **100+ (Socket.IO)** |
 | SaaS throughput | **100K+ req/day (BotSpark)** |
+| Peak traffic handled | **850 concurrent users, 4,100+ API hits/day (QuickPU)** |
 
 </div>
 
@@ -70,6 +71,7 @@ const malahim = {
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -83,9 +85,12 @@ const malahim = {
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🤖 AI / ML
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6B35?style=for-the-badge&logo=pinecone&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-7c3aed?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Databases
@@ -103,6 +108,7 @@ const malahim = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
@@ -110,28 +116,122 @@ const malahim = {
 
 ## 🚀 Featured Projects
 
+### 🤖 AI & Agentic Systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[CatalystWatch](https://github.com/malahimhaseeb)**
+Autonomous crypto market intelligence agent that scrapes and reasons over live market data, then pushes alerts straight to Discord.
+`LangGraph` `Gemini 2.5 Flash` `Playwright` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**[CodeDNA](https://codereview.malahim.dev)**
+AI code reviewer with institutional memory — remembers past review context via Pinecone and grades its own output with a 4-axis LLM-as-Judge eval pipeline.
+`Pinecone` `LLM-as-Judge` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ContentAgent](https://contentagent.malahim.dev)**
+A 5-node autonomous LangGraph pipeline that plans, drafts, critiques, and publishes content end-to-end. First major agentic system built while learning LangGraph.
+`LangGraph` `Multi-node Pipeline`
+
+</td>
+<td width="50%" valign="top">
+
+**[orderflow.bot](https://orderflow.bot)**
+WhatsApp restaurant ordering bot — takes voice notes, images of handwritten orders, and text, then processes them into structured orders.
+`Baileys` `LangGraph` `Groq` `faster-whisper` `pytesseract` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**BotSpark**
+Multi-tenant SaaS for Discord automation with LLM-powered command generation — handles **100K+ requests/day** in production.
+`NestJS` `Microservices` `OpenAI`
+
+</td>
+<td width="50%" valign="top">
+
+**Doceno**
+AI document platform — chat with your files or generate professional documents from a single prompt, built on a RAG pipeline.
+`Next.js` `RAG` `FastAPI`
+
+</td>
+</tr>
+</table>
+
+### 🌐 Full-Stack Production Apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[QuickPU](https://v0quickpu.malahim.dev)**
+University result portal with instant lookup and printable PDF report cards. Went viral on PU result day — held up under **850 concurrent users and 4,100+ API hits**, running off an EC2-hosted FastAPI backend.
+`Next.js` `FastAPI` `EC2`
+
+</td>
+<td width="50%" valign="top">
+
+**[ZarQix](https://zarqix.com)**
+E-commerce storefront and co-founded startup (with Kanwar Adnan). Full checkout flow, custom product fields, token-based review edit/delete, and a product comparison page.
+`Next.js` `E-commerce` `Startup`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Dental Clinic Template**
+Reusable, resale-ready multi-client website template for dental practices — Three.js hero animation, per-client theming via CSS custom properties. First live client: Dr. Muhammad Mohid's clinic.
+`Next.js` `Three.js` `Multi-tenant Theming`
+
+</td>
+<td width="50%" valign="top">
+
+**Optimix**
+AI-powered SEO intelligence tool combining semantic search with static analysis to surface actionable developer insights.
+`Next.js` `Python` `NLP`
+
+</td>
+</tr>
+</table>
+
+### 📦 Open Source & Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[`@malahimdev/global-state`](https://malahimdev-global-states.vercel.app)**
+Lightweight React state manager built on `useSyncExternalStore` — zero provider config, fully optimized, tree-shakeable. Published to npm, now at **v1.3.0**.
+`npm i @malahimdev/global-state`
+
+</td>
+<td width="50%" valign="top">
+
+**`create-next-template-malahimdev`**
+CLI scaffolding tool that bootstraps a Next.js project with a theme changer and Shadcn UI pre-wired.
+`npx create-next-template-malahimdev my-app`
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| 🤖 **BotSpark** | Multi-tenant SaaS for Discord automation — **100K+ req/day**, LLM-powered command generation | NestJS · Microservices · OpenAI | [bot-spark.tech](https://bot-spark.tech) |
-| 📄 **Doceno** | AI document platform — chat with files + generate pro docs from a single prompt using RAG | Next.js · RAG · FastAPI | [doceno.malahim.dev](https://doceno.malahim.dev) |
-| 🎓 **QuickPU** | PU result portal — fast lookup with printable PDF report cards for **thousands of students** | Next.js · TS · Tailwind v4 | [quickpu.vercel.app](https://quickpu.vercel.app) |
-| 🔍 **Optimix** | AI-powered SEO intelligence — semantic search + static analysis for actionable dev insights | Next.js · Python · NLP | [optimix.malahim.dev](https://optimix.malahim.dev) |
-| 🧘 **Journal** | AI-powered mental health support journaling app | Next.js · OpenAI | [journal.malahim.dev](https://journal.malahim.dev) |
-| 🎨 **UI Library** | Custom Shadcn registry explorer for developers | Next.js · Shadcn | [ui.malahim.dev](https://ui.malahim.dev) |
+*Full project list also includes GemGenie, CryptoSense (LSTM BTC price prediction), HireRadar (job scraper with semantic scoring + Discord alerts), a mini-Redis clone built from scratch, and a full Django + Next.js Restaurant ERP.*
 
 </div>
-
----
-
-## 📦 Open Source
-
-### `npm i @malahimdev/global-state`
-> Zustand-inspired global state manager — **zero provider config**, fully optimised, tree-shakeable.
-
-### `npx create-next-template-malahimdev my-app`
-> Bootstraps a **Next.js** project with Theme Changer + Shadcn UI wired up out of the box.
 
 ---
 
