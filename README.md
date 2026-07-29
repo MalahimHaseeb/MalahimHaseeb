@@ -116,31 +116,29 @@ const malahim = {
 
 ## 🚀 Featured Projects
 
-### 🤖 AI & Agentic Systems
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[CatalystWatch](https://github.com/malahimhaseeb)**
-Autonomous crypto market intelligence agent that scrapes and reasons over live market data, then pushes alerts straight to Discord.
-`LangGraph` `Gemini 2.5 Flash` `Playwright` `MongoDB`
+**BotSpark**
+Multi-tenant SaaS for Discord automation with LLM-powered command generation — handles **100K+ requests/day** in production.
+`NestJS` `Microservices` `OpenAI`
 
 </td>
 <td width="50%" valign="top">
 
-**[CodeDNA](https://codereview.malahim.dev)**
-AI code reviewer with institutional memory — remembers past review context via Pinecone and grades its own output with a 4-axis LLM-as-Judge eval pipeline.
-`Pinecone` `LLM-as-Judge` `FastAPI`
+**[QuickPU](https://v0quickpu.malahim.dev)**
+University result portal with instant lookup and printable PDF report cards. Went viral on PU result day — held up under **850 concurrent users and 4,100+ API hits**, running off an EC2-hosted FastAPI backend.
+`Next.js` `FastAPI` `EC2`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[ContentAgent](https://contentagent.malahim.dev)**
-A 5-node autonomous LangGraph pipeline that plans, drafts, critiques, and publishes content end-to-end. First major agentic system built while learning LangGraph.
-`LangGraph` `Multi-node Pipeline`
+**[CodeDNA](https://codereview.malahim.dev)**
+AI code reviewer with institutional memory — remembers past review context via Pinecone and grades its own output with a 4-axis LLM-as-Judge eval pipeline.
+`Pinecone` `LLM-as-Judge` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
@@ -154,62 +152,11 @@ WhatsApp restaurant ordering bot — takes voice notes, images of handwritten or
 <tr>
 <td width="50%" valign="top">
 
-**BotSpark**
-Multi-tenant SaaS for Discord automation with LLM-powered command generation — handles **100K+ requests/day** in production.
-`NestJS` `Microservices` `OpenAI`
-
-</td>
-<td width="50%" valign="top">
-
 **Doceno**
 AI document platform — chat with your files or generate professional documents from a single prompt, built on a RAG pipeline.
 `Next.js` `RAG` `FastAPI`
 
 </td>
-</tr>
-</table>
-
-### 🌐 Full-Stack Production Apps
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[QuickPU](https://v0quickpu.malahim.dev)**
-University result portal with instant lookup and printable PDF report cards. Went viral on PU result day — held up under **850 concurrent users and 4,100+ API hits**, running off an EC2-hosted FastAPI backend.
-`Next.js` `FastAPI` `EC2`
-
-</td>
-<td width="50%" valign="top">
-
-**[ZarQix](https://zarqix.com)**
-E-commerce storefront and co-founded startup (with Kanwar Adnan). Full checkout flow, custom product fields, token-based review edit/delete, and a product comparison page.
-`Next.js` `E-commerce` `Startup`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Dental Clinic Template**
-Reusable, resale-ready multi-client website template for dental practices — Three.js hero animation, per-client theming via CSS custom properties. First live client: Dr. Muhammad Mohid's clinic.
-`Next.js` `Three.js` `Multi-tenant Theming`
-
-</td>
-<td width="50%" valign="top">
-
-**Optimix**
-AI-powered SEO intelligence tool combining semantic search with static analysis to surface actionable developer insights.
-`Next.js` `Python` `NLP`
-
-</td>
-</tr>
-</table>
-
-### 📦 Open Source & Tools
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 **[`@malahimdev/global-state`](https://malahimdev-global-states.vercel.app)**
@@ -217,21 +164,8 @@ Lightweight React state manager built on `useSyncExternalStore` — zero provide
 `npm i @malahimdev/global-state`
 
 </td>
-<td width="50%" valign="top">
-
-**`create-next-template-malahimdev`**
-CLI scaffolding tool that bootstraps a Next.js project with a theme changer and Shadcn UI pre-wired.
-`npx create-next-template-malahimdev my-app`
-
-</td>
 </tr>
 </table>
-
-<div align="center">
-
-*Full project list also includes GemGenie, CryptoSense (LSTM BTC price prediction), HireRadar (job scraper with semantic scoring + Discord alerts), a mini-Redis clone built from scratch, and a full Django + Next.js Restaurant ERP.*
-
-</div>
 
 ---
 
