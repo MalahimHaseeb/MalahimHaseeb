@@ -17,6 +17,12 @@ I enjoy working on the full journey:
 
 </div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=malahimhaseeb&style=for-the-badge&color=7c3aed&label=Profile+Views)
+
+</div>
+
 ---
 
 ## 🚀 What I Do
